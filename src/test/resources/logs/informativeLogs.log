@@ -1,0 +1,317 @@
+23:59:43.809 INFO  AUTOMATION - on suite start
+23:59:44.877 INFO  AUTOMATION - on test start
+23:59:44.913 INFO  AUTOMATION - (POST) Login Request
+23:59:46.024 INFO  AUTOMATION - on test success
+23:59:46.026 INFO  AUTOMATION - Teardown del padre
+23:59:46.031 INFO  AUTOMATION - on test start
+23:59:46.043 INFO  AUTOMATION - (POST) Login Request
+23:59:46.274 INFO  AUTOMATION - on test success
+23:59:46.274 INFO  AUTOMATION - Teardown del padre
+23:59:46.280 INFO  AUTOMATION - on test start
+23:59:46.282 INFO  AUTOMATION - (POST) Login Request
+23:59:46.746 INFO  AUTOMATION - on test success
+23:59:46.747 INFO  AUTOMATION - Teardown del padre
+23:59:46.752 INFO  AUTOMATION - on test start
+23:59:46.867 INFO  AUTOMATION - (POST) Create post Request
+23:59:47.213 INFO  AUTOMATION - on test success
+23:59:47.213 INFO  AUTOMATION - Teardown del padre
+23:59:47.216 INFO  AUTOMATION - on test start
+23:59:47.218 INFO  AUTOMATION - (Delete) Delete single post Request
+23:59:47.458 INFO  AUTOMATION - on test success
+23:59:47.458 INFO  AUTOMATION - Teardown del padre
+23:59:47.464 INFO  AUTOMATION - on test start
+23:59:47.465 INFO  AUTOMATION - (GET) Get all posts Request
+23:59:47.702 INFO  AUTOMATION - on test success
+23:59:47.702 INFO  AUTOMATION - Teardown del padre
+23:59:47.705 INFO  AUTOMATION - on test start
+23:59:47.707 INFO  AUTOMATION - (GET) Get single post Request
+23:59:47.941 INFO  AUTOMATION - on test success
+23:59:47.941 INFO  AUTOMATION - Teardown del padre
+23:59:47.945 INFO  AUTOMATION - on test start
+23:59:47.951 INFO  AUTOMATION - (PATCH) Partial update post Request
+23:59:48.190 INFO  AUTOMATION - on test success
+23:59:48.191 INFO  AUTOMATION - Teardown del padre
+23:59:48.195 INFO  AUTOMATION - on test start
+23:59:48.196 INFO  AUTOMATION - (GET) Get single post Request
+23:59:48.415 INFO  AUTOMATION - on test success
+23:59:48.415 INFO  AUTOMATION - Teardown del padre
+23:59:48.419 INFO  AUTOMATION - on test start
+23:59:48.420 INFO  AUTOMATION - (GET) Search posts Request
+23:59:48.652 INFO  AUTOMATION - on test success
+23:59:48.653 INFO  AUTOMATION - Teardown del padre
+23:59:48.655 INFO  AUTOMATION - on test start
+23:59:48.657 INFO  AUTOMATION - (GET) Sort posts Request
+23:59:48.886 INFO  AUTOMATION - on test success
+23:59:48.886 INFO  AUTOMATION - Teardown del padre
+23:59:48.899 INFO  AUTOMATION - on test start
+23:59:48.906 INFO  AUTOMATION - (PUT) Update post Request
+23:59:49.134 INFO  AUTOMATION - on test success
+23:59:49.134 INFO  AUTOMATION - Teardown del padre
+23:59:49.137 INFO  AUTOMATION - (POST) Login Request
+23:59:49.912 INFO  AUTOMATION - on test start
+23:59:49.921 INFO  AUTOMATION - (POST) Create post Request
+23:59:50.159 INFO  AUTOMATION - on test failure
+23:59:50.160 INFO  AUTOMATION - Teardown del padre
+23:59:50.173 INFO  AUTOMATION - (POST) Login Request
+23:59:50.413 INFO  AUTOMATION - on test start
+23:59:50.415 INFO  AUTOMATION - (Delete) Delete single post Request
+23:59:50.653 INFO  AUTOMATION - on test success
+23:59:50.653 INFO  AUTOMATION - Teardown del padre
+23:59:50.656 INFO  AUTOMATION - (POST) Login Request
+23:59:50.894 INFO  AUTOMATION - on test start
+23:59:50.895 INFO  AUTOMATION - (GET) Get all posts Request
+23:59:51.124 INFO  AUTOMATION - on test success
+23:59:51.124 INFO  AUTOMATION - Teardown del padre
+23:59:51.129 INFO  AUTOMATION - (POST) Login Request
+23:59:51.362 INFO  AUTOMATION - on test start
+23:59:51.363 INFO  AUTOMATION - (GET) Get single post Request
+23:59:51.590 INFO  AUTOMATION - on test success
+23:59:51.590 INFO  AUTOMATION - Teardown del padre
+23:59:51.593 INFO  AUTOMATION - (POST) Login Request
+23:59:51.831 INFO  AUTOMATION - on test start
+23:59:51.839 INFO  AUTOMATION - (PATCH) Partial update post Request
+23:59:52.073 INFO  AUTOMATION - on test success
+23:59:52.074 INFO  AUTOMATION - Teardown del padre
+23:59:52.077 INFO  AUTOMATION - (POST) Login Request
+23:59:52.303 INFO  AUTOMATION - on test start
+23:59:52.304 INFO  AUTOMATION - (GET) Get single post Request
+23:59:52.765 INFO  AUTOMATION - on test success
+23:59:52.765 INFO  AUTOMATION - Teardown del padre
+23:59:52.768 INFO  AUTOMATION - (POST) Login Request
+23:59:53.004 INFO  AUTOMATION - on test start
+23:59:53.005 INFO  AUTOMATION - (GET) Search posts Request
+23:59:53.236 INFO  AUTOMATION - on test success
+23:59:53.236 INFO  AUTOMATION - Teardown del padre
+23:59:53.239 INFO  AUTOMATION - (POST) Login Request
+23:59:53.465 INFO  AUTOMATION - on test start
+23:59:53.467 INFO  AUTOMATION - (GET) Sort posts Request
+23:59:53.699 INFO  AUTOMATION - on test success
+23:59:53.699 INFO  AUTOMATION - Teardown del padre
+23:59:53.701 INFO  AUTOMATION - (POST) Login Request
+23:59:53.936 INFO  AUTOMATION - on test start
+23:59:53.941 INFO  AUTOMATION - (PUT) Update post Request
+23:59:54.172 INFO  AUTOMATION - on test success
+23:59:54.173 INFO  AUTOMATION - Teardown del padre
+23:59:54.176 INFO  AUTOMATION - (POST) Login Request
+23:59:54.412 INFO  AUTOMATION - on test start
+23:59:54.413 INFO  AUTOMATION - (Delete) Delete single post Request
+23:59:54.642 INFO  AUTOMATION - on test success
+23:59:54.643 INFO  AUTOMATION - Teardown del padre
+23:59:54.645 INFO  AUTOMATION - (POST) Login Request
+23:59:54.880 INFO  AUTOMATION - on test start
+23:59:54.881 INFO  AUTOMATION - (GET) Get single post Request
+23:59:55.109 INFO  AUTOMATION - on test success
+23:59:55.109 INFO  AUTOMATION - Teardown del padre
+23:59:55.112 INFO  AUTOMATION - (POST) Login Request
+23:59:55.347 INFO  AUTOMATION - on test start
+23:59:55.350 INFO  AUTOMATION - (PATCH) Partial update post Request
+23:59:55.588 INFO  AUTOMATION - on test success
+23:59:55.589 INFO  AUTOMATION - Teardown del padre
+23:59:55.591 INFO  AUTOMATION - (POST) Login Request
+23:59:55.829 INFO  AUTOMATION - on test start
+23:59:55.832 INFO  AUTOMATION - (PUT) Update post Request
+23:59:56.051 INFO  AUTOMATION - on test success
+23:59:56.051 INFO  AUTOMATION - Teardown del padre
+23:59:56.054 INFO  AUTOMATION - on test start
+23:59:56.069 INFO  AUTOMATION - (POST) Create product Request
+23:59:56.294 INFO  AUTOMATION - on test success
+23:59:56.294 INFO  AUTOMATION - Teardown del padre
+23:59:56.296 INFO  AUTOMATION - on test start
+23:59:56.298 INFO  AUTOMATION - (Delete) Delete single product Request
+23:59:56.530 INFO  AUTOMATION - on test success
+23:59:56.531 INFO  AUTOMATION - Teardown del padre
+23:59:56.544 INFO  AUTOMATION - on test start
+23:59:56.545 INFO  AUTOMATION - (GET) Get all products Request
+23:59:56.763 INFO  AUTOMATION - on test success
+23:59:56.763 INFO  AUTOMATION - Teardown del padre
+23:59:56.766 INFO  AUTOMATION - on test start
+23:59:56.767 INFO  AUTOMATION - (GET) Get single product Request
+23:59:56.983 INFO  AUTOMATION - on test success
+23:59:56.984 INFO  AUTOMATION - Teardown del padre
+23:59:56.986 INFO  AUTOMATION - on test start
+23:59:56.990 INFO  AUTOMATION - (PATCH) Partial update product Request
+23:59:57.214 INFO  AUTOMATION - on test success
+23:59:57.214 INFO  AUTOMATION - Teardown del padre
+23:59:57.217 INFO  AUTOMATION - on test start
+23:59:57.218 INFO  AUTOMATION - (GET) Get single product Request
+23:59:57.441 INFO  AUTOMATION - on test success
+23:59:57.442 INFO  AUTOMATION - Teardown del padre
+23:59:57.444 INFO  AUTOMATION - on test start
+23:59:57.446 INFO  AUTOMATION - (GET) Search products Request
+23:59:57.668 INFO  AUTOMATION - on test success
+23:59:57.668 INFO  AUTOMATION - Teardown del padre
+23:59:57.671 INFO  AUTOMATION - on test start
+23:59:57.672 INFO  AUTOMATION - (GET) Sort products Request
+23:59:57.901 INFO  AUTOMATION - on test success
+23:59:57.902 INFO  AUTOMATION - Teardown del padre
+23:59:57.904 INFO  AUTOMATION - on test start
+23:59:57.910 INFO  AUTOMATION - (PUT) Update product Request
+23:59:58.139 INFO  AUTOMATION - on test success
+23:59:58.140 INFO  AUTOMATION - Teardown del padre
+23:59:58.142 INFO  AUTOMATION - (POST) Login Request
+23:59:58.367 INFO  AUTOMATION - on test start
+23:59:58.374 INFO  AUTOMATION - (POST) Create product Request
+23:59:58.604 INFO  AUTOMATION - on test success
+23:59:58.605 INFO  AUTOMATION - Teardown del padre
+23:59:58.607 INFO  AUTOMATION - (POST) Login Request
+23:59:58.831 INFO  AUTOMATION - on test start
+23:59:58.832 INFO  AUTOMATION - (Delete) Delete single product Request
+23:59:59.056 INFO  AUTOMATION - on test success
+23:59:59.056 INFO  AUTOMATION - Teardown del padre
+23:59:59.059 INFO  AUTOMATION - (POST) Login Request
+23:59:59.297 INFO  AUTOMATION - on test start
+23:59:59.299 INFO  AUTOMATION - (GET) Get all products Request
+23:59:59.531 INFO  AUTOMATION - on test success
+23:59:59.532 INFO  AUTOMATION - Teardown del padre
+23:59:59.534 INFO  AUTOMATION - (POST) Login Request
+23:59:59.759 INFO  AUTOMATION - on test start
+23:59:59.761 INFO  AUTOMATION - (GET) Get single product Request
+23:59:59.986 INFO  AUTOMATION - on test success
+23:59:59.986 INFO  AUTOMATION - Teardown del padre
+23:59:59.988 INFO  AUTOMATION - (POST) Login Request
+00:00:00.225 INFO  AUTOMATION - on test start
+00:00:00.229 INFO  AUTOMATION - (PATCH) Partial update product Request
+00:00:00.457 INFO  AUTOMATION - on test success
+00:00:00.457 INFO  AUTOMATION - Teardown del padre
+00:00:00.459 INFO  AUTOMATION - (POST) Login Request
+00:00:00.689 INFO  AUTOMATION - on test start
+00:00:00.691 INFO  AUTOMATION - (GET) Get single product Request
+00:00:00.921 INFO  AUTOMATION - on test success
+00:00:00.921 INFO  AUTOMATION - Teardown del padre
+00:00:00.923 INFO  AUTOMATION - (POST) Login Request
+00:00:01.157 INFO  AUTOMATION - on test start
+00:00:01.158 INFO  AUTOMATION - (GET) Search products Request
+00:00:01.379 INFO  AUTOMATION - on test success
+00:00:01.379 INFO  AUTOMATION - Teardown del padre
+00:00:01.381 INFO  AUTOMATION - (POST) Login Request
+00:00:01.614 INFO  AUTOMATION - on test start
+00:00:01.616 INFO  AUTOMATION - (GET) Sort products Request
+00:00:01.846 INFO  AUTOMATION - on test success
+00:00:01.846 INFO  AUTOMATION - Teardown del padre
+00:00:01.848 INFO  AUTOMATION - (POST) Login Request
+00:00:02.075 INFO  AUTOMATION - on test start
+00:00:02.082 INFO  AUTOMATION - (PUT) Update product Request
+00:00:02.304 INFO  AUTOMATION - on test success
+00:00:02.304 INFO  AUTOMATION - Teardown del padre
+00:00:02.307 INFO  AUTOMATION - (POST) Login Request
+00:00:02.531 INFO  AUTOMATION - on test start
+00:00:02.532 INFO  AUTOMATION - (Delete) Delete single product Request
+00:00:02.748 INFO  AUTOMATION - on test success
+00:00:02.748 INFO  AUTOMATION - Teardown del padre
+00:00:02.750 INFO  AUTOMATION - (POST) Login Request
+00:00:02.978 INFO  AUTOMATION - on test start
+00:00:02.979 INFO  AUTOMATION - (GET) Get single product Request
+00:00:03.208 INFO  AUTOMATION - on test success
+00:00:03.208 INFO  AUTOMATION - Teardown del padre
+00:00:03.210 INFO  AUTOMATION - (POST) Login Request
+00:00:03.434 INFO  AUTOMATION - on test start
+00:00:03.436 INFO  AUTOMATION - (PATCH) Partial update product Request
+00:00:03.664 INFO  AUTOMATION - on test success
+00:00:03.664 INFO  AUTOMATION - Teardown del padre
+00:00:03.666 INFO  AUTOMATION - (POST) Login Request
+00:00:03.888 INFO  AUTOMATION - on test start
+00:00:03.892 INFO  AUTOMATION - (PUT) Update product Request
+00:00:04.125 INFO  AUTOMATION - on test success
+00:00:04.125 INFO  AUTOMATION - Teardown del padre
+00:00:04.128 INFO  AUTOMATION - on test start
+00:00:04.175 INFO  AUTOMATION - (POST) Create user Request
+00:00:04.401 INFO  AUTOMATION - on test success
+00:00:04.401 INFO  AUTOMATION - Teardown del padre
+00:00:04.403 INFO  AUTOMATION - on test start
+00:00:04.404 INFO  AUTOMATION - (Delete) Delete single user Request
+00:00:04.626 INFO  AUTOMATION - on test success
+00:00:04.626 INFO  AUTOMATION - Teardown del padre
+00:00:04.628 INFO  AUTOMATION - on test start
+00:00:04.630 INFO  AUTOMATION - (GET) Filter users Request
+00:00:04.847 INFO  AUTOMATION - on test success
+00:00:04.847 INFO  AUTOMATION - Teardown del padre
+00:00:04.849 INFO  AUTOMATION - on test start
+00:00:04.851 INFO  AUTOMATION - (GET) Get all users Request
+00:00:05.067 INFO  AUTOMATION - on test success
+00:00:05.067 INFO  AUTOMATION - Teardown del padre
+00:00:05.069 INFO  AUTOMATION - on test start
+00:00:05.071 INFO  AUTOMATION - (GET) Get single user Request
+00:00:05.295 INFO  AUTOMATION - on test success
+00:00:05.295 INFO  AUTOMATION - Teardown del padre
+00:00:05.298 INFO  AUTOMATION - on test start
+00:00:05.304 INFO  AUTOMATION - (PATCH) Partial update user Request
+00:00:05.521 INFO  AUTOMATION - on test success
+00:00:05.521 INFO  AUTOMATION - Teardown del padre
+00:00:05.523 INFO  AUTOMATION - on test start
+00:00:05.525 INFO  AUTOMATION - (GET) Get single user Request
+00:00:05.741 INFO  AUTOMATION - on test success
+00:00:05.741 INFO  AUTOMATION - Teardown del padre
+00:00:05.743 INFO  AUTOMATION - on test start
+00:00:05.744 INFO  AUTOMATION - (GET) Sort users Request
+00:00:05.958 INFO  AUTOMATION - on test success
+00:00:05.959 INFO  AUTOMATION - Teardown del padre
+00:00:05.971 INFO  AUTOMATION - on test start
+00:00:06.000 INFO  AUTOMATION - (PUT) Update user Request
+00:00:06.216 INFO  AUTOMATION - on test success
+00:00:06.217 INFO  AUTOMATION - Teardown del padre
+00:00:06.219 INFO  AUTOMATION - (POST) Login Request
+00:00:06.448 INFO  AUTOMATION - on test start
+00:00:06.449 INFO  AUTOMATION - (Delete) Delete single user Request
+00:00:06.666 INFO  AUTOMATION - on test success
+00:00:06.666 INFO  AUTOMATION - Teardown del padre
+00:00:06.668 INFO  AUTOMATION - (POST) Login Request
+00:00:06.896 INFO  AUTOMATION - on test start
+00:00:06.897 INFO  AUTOMATION - (GET) Get single user Request
+00:00:07.113 INFO  AUTOMATION - on test success
+00:00:07.113 INFO  AUTOMATION - Teardown del padre
+00:00:07.115 INFO  AUTOMATION - (POST) Login Request
+00:00:07.349 INFO  AUTOMATION - on test start
+00:00:07.355 INFO  AUTOMATION - (PATCH) Partial update user Request
+00:00:07.571 INFO  AUTOMATION - on test success
+00:00:07.572 INFO  AUTOMATION - Teardown del padre
+00:00:07.574 INFO  AUTOMATION - (POST) Login Request
+00:00:07.806 INFO  AUTOMATION - on test start
+00:00:07.836 INFO  AUTOMATION - (PUT) Update user Request
+00:00:08.055 INFO  AUTOMATION - on test success
+00:00:08.055 INFO  AUTOMATION - Teardown del padre
+00:00:08.057 INFO  AUTOMATION - (POST) Login Request
+00:00:08.280 INFO  AUTOMATION - on test start
+00:00:08.311 INFO  AUTOMATION - (POST) Create user Request
+00:00:08.542 INFO  AUTOMATION - on test success
+00:00:08.542 INFO  AUTOMATION - Teardown del padre
+00:00:08.543 INFO  AUTOMATION - (POST) Login Request
+00:00:08.771 INFO  AUTOMATION - on test start
+00:00:08.772 INFO  AUTOMATION - (Delete) Delete single user Request
+00:00:08.999 INFO  AUTOMATION - on test success
+00:00:08.999 INFO  AUTOMATION - Teardown del padre
+00:00:09.001 INFO  AUTOMATION - (POST) Login Request
+00:00:09.227 INFO  AUTOMATION - on test start
+00:00:09.228 INFO  AUTOMATION - (GET) Filter users Request
+00:00:09.447 INFO  AUTOMATION - on test success
+00:00:09.447 INFO  AUTOMATION - Teardown del padre
+00:00:09.449 INFO  AUTOMATION - (POST) Login Request
+00:00:09.682 INFO  AUTOMATION - on test start
+00:00:09.683 INFO  AUTOMATION - (GET) Get all users Request
+00:00:09.917 INFO  AUTOMATION - on test success
+00:00:09.918 INFO  AUTOMATION - Teardown del padre
+00:00:09.920 INFO  AUTOMATION - (POST) Login Request
+00:00:10.153 INFO  AUTOMATION - on test start
+00:00:10.154 INFO  AUTOMATION - (GET) Get single user Request
+00:00:10.381 INFO  AUTOMATION - on test success
+00:00:10.381 INFO  AUTOMATION - Teardown del padre
+00:00:10.383 INFO  AUTOMATION - (POST) Login Request
+00:00:10.616 INFO  AUTOMATION - on test start
+00:00:10.621 INFO  AUTOMATION - (PATCH) Partial update user Request
+00:00:10.847 INFO  AUTOMATION - on test success
+00:00:10.847 INFO  AUTOMATION - Teardown del padre
+00:00:10.849 INFO  AUTOMATION - (POST) Login Request
+00:00:11.075 INFO  AUTOMATION - on test start
+00:00:11.076 INFO  AUTOMATION - (GET) Get single user Request
+00:00:11.310 INFO  AUTOMATION - on test success
+00:00:11.310 INFO  AUTOMATION - Teardown del padre
+00:00:11.312 INFO  AUTOMATION - (POST) Login Request
+00:00:11.544 INFO  AUTOMATION - on test start
+00:00:11.545 INFO  AUTOMATION - (GET) Sort users Request
+00:00:11.779 INFO  AUTOMATION - on test success
+00:00:11.779 INFO  AUTOMATION - Teardown del padre
+00:00:11.781 INFO  AUTOMATION - (POST) Login Request
+00:00:12.007 INFO  AUTOMATION - on test start
+00:00:12.034 INFO  AUTOMATION - (PUT) Update user Request
+00:00:12.255 INFO  AUTOMATION - on test success
+00:00:12.255 INFO  AUTOMATION - Teardown del padre
+00:00:12.289 INFO  AUTOMATION - on suite finish
